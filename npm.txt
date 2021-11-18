@@ -1,0 +1,19 @@
+Iniciar uma nova pasta: expo init carFix
+===============================================
+React Navigation: 
+npm i @react-navigation/native
+npm i react-native-reanimated 
+npm i react-native-gesture-handler 
+npm i react-native-screens 
+npm i react-native-safe-area-context 
+npm i @react-native-community/masked-view 
+npm i @react-navigation/stack 
+npm i @react-navigation/bottom-tabs
+npm i @react-navigation/native-stack
+===============================================
+Bootstrap: npm i react-bootstrap
+===============================================
+Axios: npm install axios
+===============================================
+ChatBot: npm i react-simple-chatbot
+styled-components: npm i styled-components
